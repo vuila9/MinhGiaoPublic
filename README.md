@@ -23,4 +23,3 @@ MinhGiao/
 │   └── [slug]/
 ├── lien-he/
 └── chinh-sach-bao-mat/
-```
