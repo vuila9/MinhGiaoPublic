@@ -15,6 +15,7 @@ Redesign of the corporate website for **Minh Giao Technical and Trading Co., Ltd
 
 ```
 MinhGiao/
+en/
 ├── giai-phap/
 │   ├── an-ninh/
 │   ├── bms/
